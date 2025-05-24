@@ -1,3 +1,8 @@
+<h1 align="left">Shaghaf Jewelry Store</h1>
+
+###
+
+
 A stylish and elegant jewelry website built with HTML and Tailwind CSS. It showcases beautiful collections with a clean, modern design. The site is fully responsive, featuring smooth layouts, product displays, and a luxurious aesthetic to reflect the brand’s identity.
 
 
